@@ -1,4 +1,3 @@
-﻿# BMI_Calculator
 # BMI_Calculator
 
 The BMI Calculator calcuates the height in meters and weight in kg's and passes the values as doubles.
